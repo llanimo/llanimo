@@ -11,7 +11,7 @@
 
 ###  Tools
 <p align="center">
-<img src="https://raw.githubusercontent.com/llanimo/llanimo/main/Tools.png" alt="Languages and Tools" width="600"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,julia,rust,go,r" width="800" height="150" />
 </p>
 
 
