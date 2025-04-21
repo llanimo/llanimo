@@ -9,12 +9,15 @@
 
 ---
 
-###  Tools
+###  Primary Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,julia,rust,go,r" width="800" height="150" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,julia,javascript" width="450" height="100" />
 </p>
 
-
+###  Secondary Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=rust,go,r,kotlin" width="350" height="75" />
+</p>
 
 ###  Contact
 <p align="center">
