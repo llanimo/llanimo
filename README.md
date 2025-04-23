@@ -16,7 +16,7 @@
 
 ###  Secondary Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=rust,go,r,javascript,flutter" width="350" height="70" />
+<img src="https://skillicons.dev/icons?i=rust,r,javascript,flutter,lua" width="350" height="70" />
 </p>
 
 ###  Contact
