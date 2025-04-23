@@ -11,7 +11,7 @@
 
 ###  Primary Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,lua" width="500" height="110" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" width="800" height="110" />
 </p>
 
 ###  Secondary Tools
