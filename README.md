@@ -11,12 +11,12 @@
 
 ###  Primary Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,julia" width="520" height="110" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,lua" width="500" height="110" />
 </p>
 
 ###  Secondary Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=rust,javascript,flutter,lua" width="350" height="70" />
+<img src="https://skillicons.dev/icons?i=rust,javascript,flutter,julia" width="400" height="70" />
 </p>
 
 ###  Contact
