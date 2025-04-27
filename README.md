@@ -4,7 +4,6 @@
 
  ## Hi, I'm Slava 👋
 - Currently Studying **NLP** 🧠
-- AI Engineer 💻
 </p>
 
 ---
