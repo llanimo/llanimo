@@ -30,7 +30,7 @@
     <td align="center" valign="top" width="50%">
       <h3>Currently Studying</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=cpp,kotlin,go" width="250" height="50" alt="Currently Studying"/>
+        <img src="https://skillicons.dev/icons?i=cpp,kotlin" width="250" height="50" alt="Currently Studying"/>
       </p>
     </td>
   </tr>
