@@ -41,7 +41,7 @@
   <h3>Contact</h3>
 </div>
 <p align="center">
-  <a href="https://github.com/llanimo">
+  <a href="https://github.com/LeventySeven">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="46"/>
   </a>
   <a href="mailto:olor.guard@gmail.com">
@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/vyacheslav-lyan/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="46"/>
   </a>
-  <a href="https://t.me/llanimo">
+  <a href="https://t.me/SeventyLeven">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="46"/>
   </a>
 </p>
