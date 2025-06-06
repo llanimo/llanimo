@@ -19,22 +19,15 @@
 </p>
 
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="80%">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h3>Secondary Tools</h3>
+
+<div align="center">
+  <h3>Secondary Tools</h3>
+</div>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=cpp,julia" width="250" height="50" alt="Secondary Tools"/>
-      </p>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3>Currently Studying</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=kotlin,rust" width="250" height="50" alt="Currently Studying"/>
+        <img src="https://skillicons.dev/icons?i=cpp,kotlin" width="750" height="60" alt="Secondary Tools"/>
       </p>
     </td>
   </tr>
-</table>
 
 
 <div align="center">
