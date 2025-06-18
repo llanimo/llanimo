@@ -24,7 +24,7 @@
   <h3>Secondary Tools</h3>
 </div>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=cpp,kotlin,fastapi" width="750" height="60" alt="Secondary Tools"/>
+        <img src="https://skillicons.dev/icons?i=cpp,kotlin,swift,fastapi" width="750" height="60" alt="Secondary Tools"/>
       </p>
     </td>
   </tr>
